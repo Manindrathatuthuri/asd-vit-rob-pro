@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+runs/
+*.pt
+*.pth
+*.csv
+.ipynb_checkpoints/
+# never commit images or any child data
+data/
+dataset/
+*.jpg
+*.jpeg
+*.png
